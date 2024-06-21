@@ -24,7 +24,7 @@
   <a href="mailto:tayabghafor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="linkedin.com/in/tayab-ghafor-92a683217" target="_blank">
+  <a href="linkedin.com/in/tayab-ghafor">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://TayabGhafor.github.io" target="_blank">
@@ -71,6 +71,9 @@
 
 <div align="center">
 <a href='https://ko-fi.com/tayabmalik' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href="https://linkedin.com/in/tayab-ghafor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayab-ghafor" height="30" width="40" /></a>
+<a href="https://instagram.com/__tayab_malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tayab_malik" height="30" width="40" /></a>
+<a href="https://discord.gg/wv66wSnR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wv66wSnR" height="30" width="40" /></a>
 </div>
 
 <br/>
