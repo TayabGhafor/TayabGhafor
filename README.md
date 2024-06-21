@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <div align="center">
-<img alt="Coder GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="850px" />
+<img alt="Coder GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="230" width="850px" />
 </div>
 
 <!-- Welcome Section -->
@@ -23,9 +23,9 @@
  
  🌱 I’m currently learning **Next.JS, Gsap, Framer**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/TayabGhafor/TayabGhafor/issues)**
+💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/TayabGhafor/TayabGhafor/issues)**
 
-⚡ Fun fact **💡 Did you know? The term "bug" in software originated from a real moth found causing issues in an early computer! Debugging has been literal since 1947. 🦋💻 #CodingQuirks**
+⚡ Fun fact **🌟 I speak fluent code and my favorite pastime is debugging the universe, one commit at a time! 🚀**
  </div>
 
  <!-- Contact Section -->
