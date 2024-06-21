@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://images.app.goo.gl/vfxWQ2UYdhX2chyY8" alt="Banner" />
+</div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TayabGhafor.TayabGhafor" />
 
 <h1 align="center">
@@ -10,26 +13,21 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently 3rd year **Software Engineering Student**
  
- 🌱 I’m currently learning **Next.JS, Game Development, AWS**
+ 🌱 I’m currently learning **Next.JS, Gsap, Framer**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/TayabGhafor/TayabGhafor/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **💡 Did you know? The term "bug" in software originated from a real moth found causing issues in an early computer! Debugging has been literal since 1947. 🦋💻 #CodingQuirks**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:tayabghafor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="linkedin.com/in/tayab-ghafor">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://TayabGhafor.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<img align="center" src="" alt="Contact Me" height="30" width="40" />
+ <a href="https://linkedin.com/in/tayab-ghafor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayab-ghafor" height="30" width="40" /></a>
+<a href="https://instagram.com/__tayab_malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tayab_malik" height="30" width="40" /></a>
+<a href="https://discord.gg/wv66wSnR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wv66wSnR" height="30" width="40" /></a>
 </div>
 
  <hr/>
@@ -71,9 +69,6 @@
 
 <div align="center">
 <a href='https://ko-fi.com/tayabmalik' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-    <a href="https://linkedin.com/in/tayab-ghafor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayab-ghafor" height="30" width="40" /></a>
-<a href="https://instagram.com/__tayab_malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tayab_malik" height="30" width="40" /></a>
-<a href="https://discord.gg/wv66wSnR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wv66wSnR" height="30" width="40" /></a>
 </div>
 
 <br/>
