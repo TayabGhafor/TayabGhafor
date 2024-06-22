@@ -32,7 +32,7 @@
 <div align="center"> 
  <h2 align="center"> Contact Me <img align="center" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width=40 height=30 >
  </h2>
- <a href="https://linkedin.com/in/tayab-ghafor" target="blank"><img align="center" alt="Linked-In" height=50 width=60 src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" /></a>
+ <a href="https://linkedin.com/in/tayabmalik" target="blank"><img align="center" alt="Linked-In" height=50 width=60 src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" /></a>
 <a href="https://instagram.com/__tayab_malik" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="__tayab_malik" height="50" width="60" /></a>
 <a href="https://discord.gg/wv66wSnR" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" height="50" width="60" /></a>
 <a href="https://wa.me/qr/LTXWZ5JT6AQAC1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" height="50" width="60" /></a>
