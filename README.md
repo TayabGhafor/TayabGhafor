@@ -1,6 +1,6 @@
 <!-- Visitors show banner -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TayabGhafor.TayabGhafor" />
-<img align="right" src="https://github.com/TayabGhafor/TayabGhafor/actions/workflows/super-linter.yml/badge.svg" />
+<img align="right" src="https://github.com/TayabGhafor/TayabGhafor/actions/workflows/super-linter.yml/badge.svg" margin="2px" />
 <br>
 
 <!-- Banner -->
