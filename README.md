@@ -1,7 +1,7 @@
 <!-- Visitors show banner -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TayabGhafor.TayabGhafor" />
-[![Lint Code Base](https://github.com/TayabGhafor/TayabGhafor/actions/workflows/super-linter.yml/badge.svg)](https://github.com/TayabGhafor/TayabGhafor/actions/workflows/super-linter.yml)
-<br/>
+<img align="right" src="https://github.com/TayabGhafor/TayabGhafor/actions/workflows/super-linter.yml/badge.svg" />
+<br>
 
 <!-- Banner -->
 <div align="center">
