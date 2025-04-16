@@ -19,7 +19,7 @@
 <!-- Current Activities Section -->
 <div align="center">
  
- 🔭 I’m currently 3rd year **Software Engineering Student**
+ 🔭 I’m currently 4th year **Software Engineering Student**
  
  🌱 I’m currently learning **Next.JS, Gsap, Framer**
 
