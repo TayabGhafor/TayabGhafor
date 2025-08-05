@@ -23,7 +23,7 @@
  
  🌱 I’m currently learning **TestRails, Playwright, Framer**
 
-💬 Ask me about **Automation Testing, Selenium, Cypress, Python, Wordpress, Mongodb... or anything [here](https://github.com/TayabGhafor/TayabGhafor/issues)**
+💬 Ask me about **Automation Testing, Selenium, Cypress, Python, Wordpress, Mongodb... or anything [here](https://wa.me/qr/LTXWZ5JT6AQAC1 )**
 
 ⚡ Fun fact **🌟 I speak fluent code and my favorite pastime is debugging the universe, one commit at a time! 🚀**
  </div>
