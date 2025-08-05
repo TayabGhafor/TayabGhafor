@@ -41,6 +41,34 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="line-seprator" width="850px" height="4px">
 </div>
 
+<!-- Featured Repositories Section -->
+<h2 align="center">📂 Featured Repositories</h2>
+<br/>
+<div align="center">
+
+🔹 <a href="https://github.com/TayabGhafor/Cowsense" target="_blank">CowSense - AI-Powered Animal Disease Diagnostic System</a> <br/>
+🔹 <a href="https://github.com/TayabGhafor/Drum-Machine" target="_blank">Drum Machine - React & JavaScript Based Soundpad</a> <br/>
+🔹 <a href="https://github.com/TayabGhafor/Markdown-Previewer" target="_blank">Markdown Previewer - Live Markdown to HTML Preview Tool</a> <br/>
+🔹 <a href="https://github.com/TayabGhafor/Pokemon-Search-App" target="_blank">Pokémon Search App - React App for Pokémon API</a> <br/>
+🔹 <a href="https://github.com/TayabGhafor/Frontend-Mini-Projects" target="_blank">Frontend Mini Projects - Collection of UI/UX Demos</a>
+
+</div>
+
+<!-- Ongoing Projects Section -->
+<h2 align="center">🚧 Ongoing Projects</h2>
+<br/>
+<div align="center">
+
+🔸 <a href="https://github.com/TayabGhafor/Cowsense-Mobile-App" target="_blank">CowSense Mobile App - React Native Development in Progress</a> <br/>
+🔸 <a href="https://github.com/TayabGhafor/Cowsense-API" target="_blank">CowSense API Backend - Node.js + MongoDB</a>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="line-seprator" width="850px" height="4px">
+</div>
+
+
 <!-- Skills & Tools Section -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
