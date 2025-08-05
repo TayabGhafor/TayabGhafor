@@ -13,7 +13,7 @@
 </h1>
 
 <!-- About Me Section -->
-<h3 align="center">A passionate software developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate QA Engineer | Flutter Developer | Frontend Developer | Web Developer | WordPress Developer from Pakistan 🇵🇰</h3>
 <br/>
 
 <!-- Current Activities Section -->
@@ -89,5 +89,3 @@
 <!--
 **TayabGhafor/TayabGhafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
