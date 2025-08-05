@@ -21,9 +21,9 @@
  
  🔭 I’m currently 4th year **Software Engineering Student**
  
- 🌱 I’m currently learning **Next.JS, Gsap, Framer**
+ 🌱 I’m currently learning **TestRails, Playwright, Framer**
 
-💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/TayabGhafor/TayabGhafor/issues)**
+💬 Ask me about **Automation Testing, Selenium, Cypress, Python, Wordpress, Mongodb... or anything [here](https://github.com/TayabGhafor/TayabGhafor/issues)**
 
 ⚡ Fun fact **🌟 I speak fluent code and my favorite pastime is debugging the universe, one commit at a time! 🚀**
  </div>
