@@ -47,7 +47,7 @@
 <div align="center">
 
 🔹 <a href="https://github.com/TayabGhafor/Cowsense" target="_blank">CowSense - AI-Powered Animal Disease Diagnostic System</a> <br/>
-🔹 <a href="https://github.com/TayabGhafor/JavaScript-Certification" target="_blank">JavaScript-Certification - React & JavaScript Based mini projects</a> <br/
+🔹 <a href="https://github.com/TayabGhafor/JavaScript-Certification" target="_blank">JavaScript-Certification - React & JavaScript Based mini projects</a> <br/>
 🔹 <a href="https://github.com/TayabGhafor/FrontEnd-Development-Certification" target="_blank">Frontend Mini Projects - Collection of UI/UX Demos</a>
 
 </div>
